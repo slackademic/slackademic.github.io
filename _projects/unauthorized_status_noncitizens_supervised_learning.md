@@ -31,7 +31,7 @@ Using the best performing features from a combination of predictors from the mos
 - The data are unweighted, so the figures are only meant to convey the sample data, *not the population from which the sample was drawn.*
 
 <div class="gallery" data-columns="3">
-	<img src="/images/noncitizens/populationbystatus.png'">
+	<img src="/images/noncitizens/populationbystatus.png">
 	<img src="/images/noncitizens/household_poverty.png">
 	<img src="/images/noncitizens/hh_citizen_related.png">
 	<img src="/images/noncitizens/female_hispanic_age.png">
